@@ -340,6 +340,7 @@ export default function LearningRoadmap() {
   );
 }
 ## Screenshot
+<img width="1600" height="900" alt="333" src="https://github.com/user-attachments/assets/5e283226-fb44-45e7-a1cd-00ff0959db49" />
 
 <img width="760" height="685" alt="444" src="https://github.com/user-attachments/assets/f03a5318-528a-4b89-858a-4a6838663c9b" />
 
@@ -1741,6 +1742,7 @@ Compare both outputs and identify:
 
 
 <img width="1600" height="900" alt="2" src="https://github.com/user-attachments/assets/fe4514dd-32bd-4fca-90c9-d032d55e9c57" />
+<img width="1600" height="900" alt="2" src="https://github.com/user-attachments/assets/bf392cf0-ef5c-4923-abd3-e59ba5f22bc6" />
 
 ---
 
