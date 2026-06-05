@@ -1740,9 +1740,10 @@ Compare both outputs and identify:
 
 ## Screenshot
 
+<img width="1600" height="900" alt="1" src="https://github.com/user-attachments/assets/b35be818-8163-4a28-ae6d-30921f0f7b73" />
 
 <img width="1600" height="900" alt="2" src="https://github.com/user-attachments/assets/fe4514dd-32bd-4fca-90c9-d032d55e9c57" />
-<img width="1600" height="900" alt="2" src="https://github.com/user-attachments/assets/bf392cf0-ef5c-4923-abd3-e59ba5f22bc6" />
+
 
 ---
 
